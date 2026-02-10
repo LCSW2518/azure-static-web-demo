@@ -33,4 +33,4 @@ Azure Static Web Apps Deployment Successful
 ## Notes
 - Do **not** rename the repository. It must be `azure-static-web-demo`.
 - Do **not** remove the required text string; the grader looks for it.
-- Screenshots are **not** required; the grader uses your repo and live site.
+- Screenshots are **not** required; the grader uses your repo and live site...
